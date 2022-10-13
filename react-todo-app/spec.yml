@@ -1,0 +1,17 @@
+name: Eventually - Stunning HTML5 Landing Page
+tags: ['HTML/CSS' , React js]
+starter-files: https://github.com/codedamn-projects/react-todo-app
+type: frontend
+level: easy
+cover-image: https://ibb.co/s5x6QBB
+short-description: A simple todo app made with react js.
+long-description: a simple todo app where you can add the tasks you need to do.
+    
+
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: html
+    guided: true
